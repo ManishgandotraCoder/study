@@ -1,4 +1,4 @@
-# Reconcilation , Diffing Algorithm , Virtual DOM
+# Reconcilation , VDOM
 
 ### Virtual DOM:
 

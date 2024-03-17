@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Primitive and Non Primitive Data types
+#  Data types
 
 
 In JavaScript, primitive data types are simple data types that represent single values, while non-primitive data types are more complex and can hold multiple values or other data types. Here's a simplified explanation:
