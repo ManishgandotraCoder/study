@@ -4,12 +4,12 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Study',
-  tagline: 'I am cool',
+  title: 'My Notes',
+  // tagline: 'I am cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -64,13 +64,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      // image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Study ',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
+        // title: 'My Study ',
+        // logo: {
+        //   alt: 'My Site Logo',
+        //   src: 'img/logo.svg',
+        // },
         items: [
           {
             type: 'docSidebar',
@@ -78,11 +78,11 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          
-          
+
+
         ],
       },
-     
+
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
