@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'React',
+    title: 'React.js',
     redirect: "/docs/category/react",
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default
   },
